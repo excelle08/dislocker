@@ -10,7 +10,7 @@ class Dislocker < Formula
     sha256 '9c7cbc44193f560bbe4c23bc2568485d8a77a9f598c86ba41465cd0eb0cf4441'
     version '0.7.2'
 
-    depends_on 'mbedtls'
+    depends_on 'mbedtls@2'
     depends_on 'cmake'
 #    This dependency is separately installed, as a cask
 #    depends_on :osxfuse
