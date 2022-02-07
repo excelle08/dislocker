@@ -6,8 +6,8 @@ require 'formula'
 
 class Dislocker < Formula
     homepage 'https://github.com/Aorimn/dislocker'
-    url 'https://github.com/Aorimn/dislocker/archive/v0.7.2.zip'
-    sha256 '9c7cbc44193f560bbe4c23bc2568485d8a77a9f598c86ba41465cd0eb0cf4441'
+    url 'https://github.com/excelle08/dislocker/archive/refs/tags/dev2.zip'
+    sha256 'fd1a4bc57e5a55110d111b9d8a20057be64e5be13ce82b6b5cf67ad26f3177a5'
     version '0.7.2'
 
     depends_on 'mbedtls@2'
